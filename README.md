@@ -81,6 +81,8 @@ This project focuses on cleaning, preprocessing, and analyzing Hospital General 
 - 📉 Histogram
 - 📦 Box Plot
 - 🔥 Heatmap
+- 📉 Histplot
+- 📦Countplot
 
 ---
 
